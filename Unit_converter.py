@@ -3,7 +3,7 @@
 #First create a plan for this program. Together with the instructor define the steps the user will take when using the program.
 
 while True:
-    print ("Welcome to the Unit Counter. Here you can convert kilometers in miles!")
+    print ("Welcome to the Unit Counter. Here you can convert kilometers to miles!")
     #The program greets user and describes what's the purpose of the program.
 
     km = input("Enter a number of kilometers: ")
